@@ -19,4 +19,4 @@ a.g.cohn@leeds.ac.uk, q.dou@leeds.ac.uk, l.j.wei@leeds.ac.uk,
 
 Many thanks
 
-                ![alt text](https://github.com/lweileeds/hyperbola_recognition/blob/main/example.png?raw=true)
+   ![alt text](https://github.com/lweileeds/hyperbola_recognition/blob/main/example.png?raw=true)

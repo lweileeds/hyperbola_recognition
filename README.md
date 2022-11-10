@@ -1,5 +1,5 @@
 This repository presents the c3_algorithm for detecting and fitting hypobolae from Ground Penetrating Radar (GPR) B-scan images.
-![alt text](https://github.com/lweileeds/hyperbola_recognition/blob/main/example.png?raw=true)
+
 
 -- The /c3_algorithms folder contains all core functions, with c3_hyperbola_fitting() as the main interface. 
 -- The run_example.m file demonstrates how to use the code, along with five testing GPR images.
@@ -18,3 +18,5 @@ Please Contact us if you have any questions/suggestions:
 a.g.cohn@leeds.ac.uk, q.dou@leeds.ac.uk, l.j.wei@leeds.ac.uk,
 
 Many thanks
+
+                ![alt text](https://github.com/lweileeds/hyperbola_recognition/blob/main/example.png?raw=true)
